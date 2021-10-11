@@ -1,0 +1,16 @@
+D:\CodeStore\Local_Sys_Core\Test\bin\Debug\net5.0\Test.Console.exe
+D:\CodeStore\Local_Sys_Core\Test\bin\Debug\net5.0\Test.Console.dll
+D:\CodeStore\Local_Sys_Core\Test\obj\Debug\net5.0\Test.Console.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeStore\Local_Sys_Core\Test\obj\Debug\net5.0\Test.Console.AssemblyInfoInputs.cache
+D:\CodeStore\Local_Sys_Core\Test\obj\Debug\net5.0\Test.Console.AssemblyInfo.cs
+D:\CodeStore\Local_Sys_Core\Test\obj\Debug\net5.0\Test.Console.csproj.CoreCompileInputs.cache
+D:\CodeStore\Local_Sys_Core\Test\obj\Debug\net5.0\Test.Console.dll
+D:\CodeStore\Local_Sys_Core\Test\obj\Debug\net5.0\ref\Test.Console.dll
+D:\CodeStore\Local_Sys_Core\Test\obj\Debug\net5.0\Test.Console.pdb
+D:\CodeStore\Local_Sys_Core\Test\bin\Debug\net5.0\Test.Console.deps.json
+D:\CodeStore\Local_Sys_Core\Test\bin\Debug\net5.0\Test.Console.runtimeconfig.json
+D:\CodeStore\Local_Sys_Core\Test\bin\Debug\net5.0\Test.Console.runtimeconfig.dev.json
+D:\CodeStore\Local_Sys_Core\Test\bin\Debug\net5.0\ref\Test.Console.dll
+D:\CodeStore\Local_Sys_Core\Test\bin\Debug\net5.0\Test.Console.pdb
+D:\CodeStore\Local_Sys_Core\Test\obj\Debug\net5.0\Test.Console.genruntimeconfig.cache
+D:\CodeStore\Local_Sys_Core\Test\obj\Debug\net5.0\Test.Console.csproj.AssemblyReference.cache

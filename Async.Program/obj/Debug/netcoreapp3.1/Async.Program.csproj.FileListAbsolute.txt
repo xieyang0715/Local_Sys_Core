@@ -1,0 +1,13 @@
+D:\CodeStore\Local_Sys_Core\Async.Program\bin\Debug\netcoreapp3.1\Async.Program.exe
+D:\CodeStore\Local_Sys_Core\Async.Program\bin\Debug\netcoreapp3.1\Async.Program.deps.json
+D:\CodeStore\Local_Sys_Core\Async.Program\bin\Debug\netcoreapp3.1\Async.Program.runtimeconfig.json
+D:\CodeStore\Local_Sys_Core\Async.Program\bin\Debug\netcoreapp3.1\Async.Program.runtimeconfig.dev.json
+D:\CodeStore\Local_Sys_Core\Async.Program\bin\Debug\netcoreapp3.1\Async.Program.dll
+D:\CodeStore\Local_Sys_Core\Async.Program\bin\Debug\netcoreapp3.1\Async.Program.pdb
+D:\CodeStore\Local_Sys_Core\Async.Program\obj\Debug\netcoreapp3.1\Async.Program.AssemblyInfoInputs.cache
+D:\CodeStore\Local_Sys_Core\Async.Program\obj\Debug\netcoreapp3.1\Async.Program.AssemblyInfo.cs
+D:\CodeStore\Local_Sys_Core\Async.Program\obj\Debug\netcoreapp3.1\Async.Program.csproj.CoreCompileInputs.cache
+D:\CodeStore\Local_Sys_Core\Async.Program\obj\Debug\netcoreapp3.1\Async.Program.dll
+D:\CodeStore\Local_Sys_Core\Async.Program\obj\Debug\netcoreapp3.1\Async.Program.pdb
+D:\CodeStore\Local_Sys_Core\Async.Program\obj\Debug\netcoreapp3.1\Async.Program.genruntimeconfig.cache
+D:\CodeStore\Local_Sys_Core\Async.Program\obj\Debug\netcoreapp3.1\Async.Program.csproj.AssemblyReference.cache
